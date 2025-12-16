@@ -1,4 +1,4 @@
-package Unidade01;
+package Classes_e_métodos;
 
 public class Triangulo {
     private double base;

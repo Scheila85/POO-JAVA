@@ -2,7 +2,7 @@
 //como nome, cargo e salário, e um método para calcular aumento de salário. Isso ajudará a gerenciar a 
 //equipe de forma eficaz!
 
-package Unidade01;
+package Classes_e_métodos;
 
 import java.util.Scanner;
 

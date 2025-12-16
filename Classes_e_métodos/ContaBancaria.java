@@ -3,7 +3,7 @@
 //gerenciar suas economias!
 
 
-package Unidade01;
+package Classes_e_métodos;
 
 import java.util.Scanner;
 
