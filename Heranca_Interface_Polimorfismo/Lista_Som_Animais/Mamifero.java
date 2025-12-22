@@ -24,7 +24,7 @@ public class Mamifero extends Animal {
         System.out.println("Mamífero emitindo som...");
     }
 
-    public void Amamentar(){
+    public void amamentar(){
         System.out.println("Mamífero amamentando...");
     }
 }
